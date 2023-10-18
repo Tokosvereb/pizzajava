@@ -320,6 +320,7 @@ public class pizzaHFframe extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
             JOptionPane.showMessageDialog(rootPane, "Ez egy teszt!");
+            JOptionPane.showMessageDialog(rootPane, "Ez egy teszt!");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
