@@ -1,2 +1,2 @@
-# pizzajava
-Githubon létrehozva:Kárpáti Gergő
+## pizzajava
+# Githubon létrehozva:**Kárpáti Gergő**
